@@ -1,5 +1,5 @@
 # OTX2Snort
-Python script created to generate Snort rules from OTX pulses.
+Python script created to generate Snort rules from IOCs observed in AlienVault OTX pulses during the past week that are subscribed to by a user.
 
 # Usage Options:
   - --config CONFIG       Path to configuration file
